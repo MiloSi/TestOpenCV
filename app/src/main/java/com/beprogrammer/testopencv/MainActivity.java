@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity  implements CameraBridgeView
     static {
         System.loadLibrary("opencv_java3");
         System.loadLibrary("native-lib");
+        
     }
 
 
